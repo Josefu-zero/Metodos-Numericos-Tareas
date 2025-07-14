@@ -1,4 +1,5 @@
 **/*.html
+**/*.env
 # Archivos temporales de Windows
 Thumbs.db
 ehthumbs.db
