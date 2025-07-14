@@ -1,0 +1,60 @@
+2025-07-12 21:58:26 - 713372324.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 21:58:26 - 713372324.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 21:58:26 - 713372324.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\713372324.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 21:58:30 - 713372324.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 21:58:31 - 713372324.py - <module> - 108 - INFO - Fin de la demostración
+2025-07-12 22:10:28 - 3378240104.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 22:10:28 - 3378240104.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 22:10:28 - 3378240104.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 22:10:28 - 3378240104.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 22:10:28 - 3378240104.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\3378240104.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 22:10:28 - 3378240104.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\3378240104.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 22:10:30 - 3378240104.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 22:10:30 - 3378240104.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 22:10:31 - 3378240104.py - <module> - 108 - INFO - Fin de la demostración
+2025-07-12 22:10:31 - 3378240104.py - <module> - 108 - INFO - Fin de la demostración
+2025-07-12 22:13:32 - 3378240104.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 98 - INFO - Este es un mensaje INFO (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 99 - WARNING - Este es un WARNING (consola y archivo)
+2025-07-12 22:13:32 - 3378240104.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\3378240104.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 22:13:32 - 3378240104.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\3378240104.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 22:13:32 - 3378240104.py - <module> - 105 - ERROR - Ocurrió un error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\andyj\AppData\Local\Temp\ipykernel_7844\3378240104.py", line 103, in <module>
+    resultado = 10 / 0
+                ~~~^~~
+ZeroDivisionError: division by zero
+2025-07-12 22:13:34 - 3378240104.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 22:13:34 - 3378240104.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 22:13:34 - 3378240104.py - <module> - 106 - CRITICAL - ¡Situación crítica! Este mensaje llegará a Telegram
+2025-07-12 22:13:35 - 3378240104.py - <module> - 108 - INFO - Fin de la demostración
+2025-07-12 22:13:35 - 3378240104.py - <module> - 108 - INFO - Fin de la demostración
+2025-07-12 22:13:35 - 3378240104.py - <module> - 108 - INFO - Fin de la demostración
